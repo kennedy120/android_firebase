@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "98016016868",
+    "firebase_url": "https://saving-to-firebase-df5b1.firebaseio.com",
+    "project_id": "saving-to-firebase-df5b1",
+    "storage_bucket": "saving-to-firebase-df5b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98016016868:android:08ce4612752638a5",
+        "android_client_info": {
+          "package_name": "com.kennedy.savetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98016016868-4pcs1tnunnmaumhc73qf1mclvtjgnbgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJXuDQ4VwmVfBEVkkIuW9cKCwBHbPMuYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
